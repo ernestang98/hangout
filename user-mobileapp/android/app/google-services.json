@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "826140826605",
+    "firebase_url": "https://hangout-622b1-default-rtdb.firebaseio.com",
+    "project_id": "hangout-622b1",
+    "storage_bucket": "hangout-622b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826140826605:android:4b235c329c69faf97365e4",
+        "android_client_info": {
+          "package_name": "com.example.macandcheese_hangout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826140826605-facbe1gmc3054hq66jp7pfei38u5tbcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBISA1iJqCCKX1uYpvI6JXtvy-S0qCMktg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826140826605-facbe1gmc3054hq66jp7pfei38u5tbcb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "826140826605-smdoubdlag0v6g4hnbn665i8356a35nf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.macandcheeseHangout"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826140826605:android:226d2e5fe9625aca7365e4",
+        "android_client_info": {
+          "package_name": "com.jideguru.restaurant_ui_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826140826605-facbe1gmc3054hq66jp7pfei38u5tbcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBISA1iJqCCKX1uYpvI6JXtvy-S0qCMktg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826140826605-facbe1gmc3054hq66jp7pfei38u5tbcb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "826140826605-smdoubdlag0v6g4hnbn665i8356a35nf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.macandcheeseHangout"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
