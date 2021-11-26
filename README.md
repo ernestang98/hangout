@@ -5,3 +5,5 @@ Community discoverer mobile application for users to explore different communiti
 **`admin-webapp/:`**  source code directory for web application
 
 **`user-mobileapp/:`**  source code directory for mobile application
+
+**Demo:** https://www.youtube.com/watch?v=tdhDdc9UXHw
