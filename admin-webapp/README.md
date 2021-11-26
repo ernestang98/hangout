@@ -2,7 +2,7 @@
 
 ### Demo Video:
 
-https://drive.google.com/drive/folders/1hzeDmCdyPj-OGqjemIvHwLlmsIXLjqIS?usp=sharing
+https://www.youtube.com/watch?v=tdhDdc9UXHw
 
 ### How to run:
 
